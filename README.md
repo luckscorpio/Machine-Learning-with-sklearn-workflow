@@ -4,8 +4,8 @@ standard workflow to build machine learning models. the workflow includes descri
 
 has the option to apply available machine learning algorithms in sklearn
 
-can be applied to binary classification, multiclass classification, and regression problems
+can be applied to binary classification (diamondsBinary.py), multiclass classification (diamonds.py), and regression problems (diamondsCont.py)
 
-
+Example: diamond data from kaggle.com 
 
 
