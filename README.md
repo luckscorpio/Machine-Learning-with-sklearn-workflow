@@ -9,3 +9,5 @@ can be applied to binary classification (diamondsBinary.py), multiclass classifi
 Example: diamond data from kaggle.com 
 
 
+
+The workflow has helped many candidates passed project-based interviews with FinTech companies.
